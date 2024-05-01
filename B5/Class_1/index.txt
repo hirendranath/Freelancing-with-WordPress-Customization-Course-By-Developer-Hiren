@@ -1,0 +1,64 @@
+HTML
+Day 1
+
+<a> </a> = a tag
+<b> </b> = b tag
+<c> </c> = c tag
+
+<g></g>
+
+Hw: 
+01. a to z 
+02. A to Z
+
+Own 20 tag: ex: 
+<hiren> </hiren> = hiren tag
+<pagol> </pagol> = pagol tag
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
